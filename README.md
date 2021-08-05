@@ -1,1 +1,1 @@
-# Thyroid_Diagnosis_using_image_processing
+http://cimalab.intec.co/applications/thyroid/index.php sitesi üzerinde bulunan MR görüntüleri ile tiroit tahmini yapılması.
